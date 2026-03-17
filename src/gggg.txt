@@ -1,2 +1,5 @@
 
-git changed something
+git changed something  
+
+add new thing
+
